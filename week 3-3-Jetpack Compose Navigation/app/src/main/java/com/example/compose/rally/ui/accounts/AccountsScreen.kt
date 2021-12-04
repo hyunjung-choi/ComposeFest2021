@@ -76,3 +76,4 @@ fun SingleAccountBody(account: Account) {
         )
     }
 }
+
